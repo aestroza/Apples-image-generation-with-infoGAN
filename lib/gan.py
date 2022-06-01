@@ -40,7 +40,7 @@ def generator(inputs,
     image_resize = image_size // 4
     # network parameters
     kernel_size = 5
-    layer_filters = [64, 32, 16, 3]
+    layer_filters = [128, 64, 32, 3]
 
     if labels is not None:
         if codes is None:
