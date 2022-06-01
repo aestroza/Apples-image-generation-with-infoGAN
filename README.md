@@ -7,16 +7,16 @@ I trained a model that worked with 32x32 images and trained for 40000 training s
 Here I showcase some of the generated images.
 
 - Apple Red Delicious
-- ![generated_delicious_red](https://user-images.githubusercontent.com/65049620/171448646-caa47789-1a1e-4124-8db0-e894520a4c1a.png)
+  ![generated_delicious_red](https://user-images.githubusercontent.com/65049620/171448646-caa47789-1a1e-4124-8db0-e894520a4c1a.png)
 
 - Apple Granny Smith
-- ![generated_granny_smith](https://user-images.githubusercontent.com/65049620/171448663-6883b79c-76f0-4646-9ddd-2f91fc226497.png)
+  ![generated_granny_smith](https://user-images.githubusercontent.com/65049620/171448663-6883b79c-76f0-4646-9ddd-2f91fc226497.png)
 
 - Apple Golden 1
-- ![generated_golden_1](https://user-images.githubusercontent.com/65049620/171448675-18c08726-1cfd-4365-8e3f-1e1f2c3b4a5d.png)
+  ![generated_golden_1](https://user-images.githubusercontent.com/65049620/171448675-18c08726-1cfd-4365-8e3f-1e1f2c3b4a5d.png)
 
 - Apple Braeburn
-- ![generated_braeburn](https://user-images.githubusercontent.com/65049620/171449283-2b8c89c3-d839-42f5-8c45-54b877391193.png)
+  ![generated_braeburn](https://user-images.githubusercontent.com/65049620/171449283-2b8c89c3-d839-42f5-8c45-54b877391193.png)
 
 The apple images are from the "Fruits 360" dataset available on [Kaggle Here](https://www.kaggle.com/datasets/moltean/fruits)
 
