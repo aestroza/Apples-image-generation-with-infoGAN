@@ -2,11 +2,9 @@
 
 Readme is a WIP
 
-Repo where I generate images of different types of apples with infoGAN (controlled type of apple generated).
-This project was originally a homework for a Deep Leaning course I took at my Uni, here I've tried to make a cleaner version of it.
+Repo where I generate images of different types of apples with infoGAN (controlled type of apple generated). This project was originally a homework for a Deep Leaning course I took at my Uni, here I've tried to make a cleaner version of it.
 
-I trained a model that worked with 32x32 images and trained for 40000 training steps, the size is small due to computer power limitations. The original
-data set has 13 types of apples, but here I have used only 4 types of apples, this time is mainly for simplicity, but the full 13 categories can also be implemented. 
+I trained a model that worked with 32x32 images and trained for 40000 training steps, the size is small due to computer power limitations. The original data set has 13 types of apples, but here I have used only 4 types of apples, this time is mainly for simplicity, but the full 13 categories can also be implemented. 
 
 Here I showcase some of the generated images.
 
@@ -21,3 +19,7 @@ Here I showcase some of the generated images.
 
 - Apple Braeburn
 ![generated_braeburn](https://user-images.githubusercontent.com/65049620/171449283-2b8c89c3-d839-42f5-8c45-54b877391193.png)
+
+The apple images are from the "Fruits 360" dataset available on [Kaggle Here](https://www.kaggle.com/datasets/moltean/fruits)
+
+The info folder and the infogan_rgb file are mainly the code from Rowel Atienza, [see original files here](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras). I have modified it a little to work with rgb images, and to also accept more parameters as inputs in some funcitions in order to have more control over it.
