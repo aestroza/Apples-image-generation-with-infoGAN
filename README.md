@@ -28,4 +28,4 @@ Here I showcase some of the generated images.
 
 The apple images are from the "Fruits 360" dataset available on [Kaggle Here](https://www.kaggle.com/datasets/moltean/fruits)
 
-The info folder and the infogan_rgb file are mainly the code from Rowel Atienza, [see original files here](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras). I have modified it a little to work with RGB images, and to also accept more parameters as inputs in some functions in order to have more control over it.
+The info folder and the infogan_rgb file are mainly the code from Rowel Atienza, [see original files here](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras). I have modified them a little to work with RGB images, and to also accept more parameters as inputs in some functions in order to have more control over it.
